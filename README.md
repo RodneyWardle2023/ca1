@@ -1,1 +1,2 @@
-# ca1 for CCT MSC in Data Analytics 
+CA 1 - CCT 
+This is my CA1 for MSC in Data Analytics
